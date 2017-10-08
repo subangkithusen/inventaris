@@ -1,3 +1,4 @@
+<body class="skin-2">
 <div id="navbar" class="navbar navbar-default          ace-save-state">
 			<div class="navbar-container ace-save-state" id="navbar-container">
 				<button type="button" class="navbar-toggle menu-toggler pull-left" id="menu-toggler" data-target="#sidebar">
@@ -14,7 +15,7 @@
 					<a href="index.html" class="navbar-brand">
 						<small>
 							<i class="fa fa-leaf"></i>
-							SII - Subangkit
+							SII - SISTEM INFORMASI INVENTARIS	
 						</small>
 					</a>
 				</div>
